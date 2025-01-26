@@ -5,7 +5,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 
 ---
 
-#### Content:
+# Content:
+- [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking Site
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
@@ -34,4 +35,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Sous Sol Osborne](http://www.soussolosborne.com/)
 
 # Sources and Inspirations
+## Sources
+- [a 2019 r/webdev Reddit post](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
+## Inspirations
+- Various articles about Web 1.0
 - Inspired by [awesome-old-school-sites](https://github.com/mega8bit/awesome-old-school-sites)
