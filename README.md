@@ -10,8 +10,9 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Space Jam](https://www.spacejam.com/1996/) Official 1996 promotional site for the movie Space Jam
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
-- [The Best Page in the Universe](http://maddox.xmission.com/) A satirical blog where Maddox humorously criticizes everything from pop culture to societal trends.
+- [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends.
 - [Ryan's World](http://boglin.iwarp.com/) Ryan Peden/Boglin's personal site that's been online and hosted in the same place since 1998
+- [Cameron's World](https://www.cameronsworld.net/) Nostalgic web-collage created from content archived from GeoCities pages (1994–2009)
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
