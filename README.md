@@ -13,6 +13,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends.
 - [Ryan's World](http://boglin.iwarp.com/) Ryan Peden/Boglin's personal site that's been online and hosted in the same place since 1998
 - [Cameron's World](https://www.cameronsworld.net/) Nostalgic web-collage created from content archived from GeoCities pages (1994–2009)
+- [SQLook](https://sqlook.com/) Modern web-based SQLite database manager with a nostalgic Windows 2000 interface
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
