@@ -8,7 +8,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 # Content
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
 - [Space Jam](https://www.spacejam.com/1996/) Official 1996 promotional site for the movie Space Jam
-- [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group 
+- [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
+- [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
