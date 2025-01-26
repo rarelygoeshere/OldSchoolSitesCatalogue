@@ -15,6 +15,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Cameron's World](https://www.cameronsworld.net/) Nostalgic web-collage created from content archived from GeoCities pages (1994–2009)
 - [SQLook](https://sqlook.com/) Modern web-based SQLite database manager with a nostalgic Windows 2000 interface
 - [Hacker News](https://news.ycombinator.com/) Social news platform hosted by Y Combinator
+- [Frankdeboosere](https://www.frankdeboosere.be/) Personal site run by Belgian weather-man Frank Deboosere
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
