@@ -19,6 +19,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [DANZIG](http://www.danzig-verotik.com/) Site about Writer/Producer/Director Glenn Danzig
 - [One Terabyte of Kilobyte Age](https://blog.geocities.institute/)/[Tumblr](https://oneterabyteofkilobyteage.tumblr.com/) The Geocities research blog by Olia Lialina and Dragan Espenschied.
 - [ADW / Andy Wardley's Home Page](https://wardley.org/) Andy Wardley's Personal Site
+- [Textfiles.com](http://textfiles.com/thoughts/) Archive dedicated to preserving and sharing text files from the early days of the internet and bulletin board systems (BBS) in the 1980s and 1990s
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
