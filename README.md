@@ -1,5 +1,5 @@
 # OldSchoolSitesCatalogue
-A list of all the old-school sites I can find. Websites fitting into this umbrella tend to be lightweight and have aesthetics reminiscent of Web 1.0.
+A list of all the old-school sites I can find. Websites fitting into this umbrella tend to be lightweight and have aesthetics reminiscent of Web 1.0. The sites do not necessarily have to be old to be included.
 
 There aren't many restrictions or limitations on adding more sites to this list, so feel free to make a pull request and contribute.
 
@@ -14,6 +14,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Ryan's World](http://boglin.iwarp.com/) Ryan Peden/Boglin's personal site that's been online and hosted in the same place since 1998
 - [Cameron's World](https://www.cameronsworld.net/) Nostalgic web-collage created from content archived from GeoCities pages (1994–2009)
 - [SQLook](https://sqlook.com/) Modern web-based SQLite database manager with a nostalgic Windows 2000 interface
+- [Hacker News](https://news.ycombinator.com/) Social news platform hosted by Y Combinator
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
