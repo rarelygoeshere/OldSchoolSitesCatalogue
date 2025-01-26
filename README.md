@@ -8,6 +8,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 # Content
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
 - [Space Jam](https://www.spacejam.com/1996/) Official 1996 promotional site for the movie Space Jam
+- [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group 
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
@@ -23,7 +24,6 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Pataphysical Institute](http://www.pataphysicalinstitute.eu/)
 - [The Clare W. Graves Website](https://www.clarewgraves.com/)
 - [Marvel's Captain Marvel section](https://www.marvel.com/captainmarvel)
-- [Heaven's Gate](https://www.heavensgate.com/)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)
 - [Zombo.com](https://zombo.com/)
 - [Astronomy Picture of the Day (APOD)](https://apod.nasa.gov/)
