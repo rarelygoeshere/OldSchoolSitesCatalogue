@@ -17,8 +17,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Hacker News](https://news.ycombinator.com/) Social news platform hosted by Y Combinator
 - [Frankdeboosere](https://www.frankdeboosere.be/) Personal site run by Belgian weather-man Frank Deboosere
 - [DANZIG](http://www.danzig-verotik.com/) Site about Writer/Producer/Director Glenn Danzig
-- [One Terabyte of Kilobyte Age](https://blog.geocities.institute/)/[Tumblr](https://oneterabyteofkilobyteage.tumblr.com/) The Geocities research blog by
-Olia Lialina and Dragan Espenschied.
+- [One Terabyte of Kilobyte Age](https://blog.geocities.institute/)/[Tumblr](https://oneterabyteofkilobyteage.tumblr.com/) The Geocities research blog by Olia Lialina and Dragan Espenschied.
+- [ADW / Andy Wardley's Home Page](https://wardley.org/) Andy Wardley's Personal Site
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
