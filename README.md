@@ -22,6 +22,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Textfiles.com](http://textfiles.com/thoughts/) Archive dedicated to preserving and sharing text files from the early days of the internet and bulletin board systems (BBS) in the 1980s and 1990s
 - [Catholic Apologetics Information](http://catholicapologetics.info/) Comprehensive resource for Catholic teaching and apologetics
 - [The Proceedings of the Friesian School](https://friesian.com/) Philosophical resource focused on Kantian and Friesian traditions
+- [Arngren](https://arngren.net/) Norwegian gadget sales site
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
