@@ -39,8 +39,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [Lazy Foo' Productions](https://lazyfoo.net) SDL game development tutorials and resources
 - [qBittorrent](https://www.qbittorrent.org/) Official site for the qBittorrent client
-- [Minix](http://www.minix3.org/)
-- [Suckless software](https://suckless.org/)
+- [MINIX 3](http://www.minix3.org/) Official site for the MINIX 3 lightweight Unix-like OS
+- [suckless.org](https://suckless.org/) Website dedicated to the Suckless Software project, which focuses minimalist software tools following a simplicity-first philosophy
 - [Victor's Way](https://www.victorsway.eu/)
 - [Forest Bathing](http://www.vwsp.eu/)
 - [Modern Pantheism](http://www.pantheism.ie/)
