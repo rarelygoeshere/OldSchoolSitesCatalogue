@@ -60,7 +60,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 
 # Sources and Inspirations
 ## Sources
-- [a 2019 r/webdev Reddit post](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
+- [July 8, 2019 - u/miklcct - r/webdev: Web 1.0 era websites which are still maintained and active](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
+- [November 15, 2012 - Attila Nagy - Gizmodo: 23 Ancient Web Sites That Are Still Alive](https://gizmodo.com/23-ancient-web-sites-that-are-still-alive-5960831)
 ## Inspirations
 - Various articles about Web 1.0
 - Inspired by [awesome-old-school-sites](https://github.com/mega8bit/awesome-old-school-sites)
