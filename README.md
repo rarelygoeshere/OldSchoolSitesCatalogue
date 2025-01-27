@@ -46,17 +46,17 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Pantheism Ireland](http://www.pantheism.ie/) A site associated with Victor's Way that serves as a resource hub for pantheism philosophy and community in Ireland
 - [Charvaka Ashram at Victor’s Way in Roundwood, Ireland](http://www.charvaka.ie/) A platform associated with Victor's Way exploring Charvaka philosophy, emphasizing materialism, skepticism, and the pursuit of pleasure through empirical evidence.
 - [All Ireland Pataphysical Institute of Spiritual Resuscitation](http://www.pataphysicalinstitute.eu/) A platform exploring Pataphysics, the science of imaginary solutions and self-reinvention, inspired by Alfred Jarry
-- [The Clare W. Graves Website](https://www.clarewgraves.com/)
-- [Marvel's Captain Marvel section](https://www.marvel.com/captainmarvel)
-- [Berkshire Hathaway](https://www.berkshirehathaway.com/)
-- [Zombo.com](https://zombo.com/)
-- [Astronomy Picture of the Day (APOD)](https://apod.nasa.gov/)
-- [GeoBootstrap](https://code.divshot.com/geo-bootstrap/)
-- [See the World Tours](https://www.seetheworldtours.com/)
-- [Blues Saloon](https://www.bluessaloon.org/)
-- [Dino's Tomato Pie](https://www.dinostomatopie.com)
-- [The Deoxyribonucleic Hyperdimension (Deoxy)](https://deoxy.org/)
-- [Sous Sol Osborne](http://www.soussolosborne.com/)
+- [Clare W. Graves Website](https://www.clarewgraves.com/) A platform dedicated to Dr. Clare W. Graves' Emergent Cyclical Levels of Existence Theory (ECLET) and its applications in psychology, leadership, and societal development
+- [Captain Marvel | Marvel.com](https://www.marvel.com/captainmarvel) A Marvel.com section dedicated to the 2019 Captain Marvel film
+- [Berkshire Hathaway Official Home Page](https://www.berkshirehathaway.com/) The official, minimalist website of Berkshire Hathaway, offering investor-focused resources
+- [Zombo.com](https://zombo.com/) A satirical, single-serving website from 1999 that humorously exaggerates Flash intros
+- [Astronomy Picture of the Day (APOD)](https://apod.nasa.gov/apod/astropix.html) A NASA-supported website featuring daily astronomical images with expert explanations
+- [Geo for Bootstrap](https://code.divshot.com/geo-bootstrap/) A retro-inspired, open-source Bootstrap theme by Divshot
+- [See The World Tours](https://www.seetheworldtours.com/default.html) Site of See The World Tours LLC, a travel agency based in Austintown, Ohio, specializing in group-escorted tours to various international destinations
+- [Blues Saloon](https://www.bluessaloon.org/) Site for a historic live music venue located at 1638 Rice Street, St. Paul, Minnesota
+- [Dino's Tomato Pie](https://www.dinostomatopie.com) Site of a pizzeria located at 1524 East Olive Way in Seattle, Washington specializing in Sicilian-style pizzas and cocktails
+- [The Deoxyribonucleic Hyperdimension (Deoxy)](https://deoxy.org/) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
+- [Sous Sol](http://www.soussolosborne.com/) French-inspired restaurant and cocktail bar in Winnipeg's Osborne Village
 
 # Sources and Inspirations
 ## Sources
