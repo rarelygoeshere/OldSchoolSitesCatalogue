@@ -30,6 +30,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [McSpotlight](https://www.mcspotlight.org/index.shtml) A resource hub critiquing McDonald's and global corporate practices
 - [TACO](http://www.taco.com/) A multipurpose site belongs to Technical Advisors, Inc. offering tech services, web hosting, and niche resources
 - [Dial Up Sound](https://www.dialupsound.com/) A nostalgic tribute to the sounds and experience of 1990s dial-up internet
+- [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
