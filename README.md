@@ -29,7 +29,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Dole Kemp '96](https://www.dolekemp96.org/main.htm) The official campaign page for Bob Dole and Jack Kemp's 1996 U.S. presidential election bid
 - [ALIWEB (Archie Like Indexing for the WEB)](http://www.aliweb.com/) One of the first search engines, created in 1993
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
-- [The Deoxyribonucleic Hyperdimension (Deoxy)(Dead)](https://web.archive.org/web/20240906001207/https://deoxy.org/)/[Mirror](https://jacobsm.com/deoxy/deoxy.org/index.html) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
+- [The Deoxyribonucleic Hyperdimension (Deoxy)(Dead)](https://web.archive.org/web/20240906001207/https://deoxy.org/)/[Mirror 1](https://tedwilliams.co/deoxy/)/[2](https://jacobsm.com/deoxy/deoxy.org/index.html) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 
