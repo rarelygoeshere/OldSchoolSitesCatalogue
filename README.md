@@ -23,6 +23,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Catholic Apologetics Information](http://catholicapologetics.info/) Comprehensive resource for Catholic teaching and apologetics
 - [The Proceedings of the Friesian School](https://friesian.com/) Philosophical resource focused on Kantian and Friesian traditions
 - [Arngren](https://arngren.net/) Norwegian gadget sales site
+- [DPGraph](http://www.dpgraph.com/) A site for DPGraph software, Dynamic Photorealistic 3D Graphing Software for Math and Physics Visualization th and science visualization
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
