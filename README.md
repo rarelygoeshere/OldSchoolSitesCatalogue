@@ -25,6 +25,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Arngren](https://arngren.net/) Norwegian gadget sales site
 - [DPGraph](http://www.dpgraph.com/) A site for DPGraph software, Dynamic Photorealistic 3D Graphing Software for Math and Physics Visualization th and science visualization
 - [Dole Kemp '96](https://www.dolekemp96.org/main.htm) The official campaign page for Bob Dole and Jack Kemp's 1996 U.S. presidential election bid
+- [ALIWEB (Archie Like Indexing for the WEB)](http://www.aliweb.com/) One of the first search engines, created in 1993
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
