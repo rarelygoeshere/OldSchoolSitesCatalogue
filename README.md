@@ -33,10 +33,10 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
 - [Instant Internet (InstaNet)](https://www.instanet.com/) A retro ISP site providing internet access, web hosting, and resources for creating personal web pages
 - [RainDrop Laboratories (RDROP)](http://www.rdrop.com/) Hosting platform for personal projects and community content
-- [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
-- [Willem.dev](https://www.willem.dev/)
-- [Jrsoftware](https://jrsoftware.org/isdl.php)
-- [Discmaster](http://discmaster.textfiles.com/)
+- [The Benchmarks Game](https://benchmarksgame-team.pages.debian.net/benchmarksgame) Programming language performance comparison through benchmarks
+- [Willem.dev](https://www.willem.dev/) Personal website by Willem Schots, dedicated to sharing knowledge and resources on Go (Golang) and web development
+- [JR Software](https://jrsoftware.org/) Home of software tools and utilities created by Jordan Russell, including the Inno Setup tool for creating Windows installers
+- [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [LazyFoo](https://lazyfoo.net)
 - [qBittorrent](https://www.qbittorrent.org/)
 - [Minix](http://www.minix3.org/)
