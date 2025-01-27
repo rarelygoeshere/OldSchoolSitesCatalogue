@@ -31,6 +31,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
 - [The Deoxyribonucleic Hyperdimension (Deoxy)](https://deoxy.org/) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
+- [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 
 ### Technical and Development Resources
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
@@ -53,6 +54,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Pantheism Ireland](http://www.pantheism.ie/) A site associated with Victor's Way that serves as a resource hub for pantheism philosophy and community in Ireland
 - [Charvaka Ashram at Victor’s Way in Roundwood, Ireland](http://www.charvaka.ie/) A platform associated with Victor's Way exploring Charvaka philosophy, emphasizing materialism, skepticism, and the pursuit of pleasure through empirical evidence.
 - [All Ireland Pataphysical Institute of Spiritual Resuscitation](http://www.pataphysicalinstitute.eu/) A platform exploring Pataphysics, the science of imaginary solutions and self-reinvention, inspired by Alfred Jarry
+- [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
