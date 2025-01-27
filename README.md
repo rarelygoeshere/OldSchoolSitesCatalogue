@@ -31,6 +31,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [TACO](http://www.taco.com/) A multipurpose site belongs to Technical Advisors, Inc. offering tech services, web hosting, and niche resources
 - [Dial Up Sound](https://www.dialupsound.com/) A nostalgic tribute to the sounds and experience of 1990s dial-up internet
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
+- [Instant Internet (InstaNet)](https://www.instanet.com/) A retro ISP site providing internet access, web hosting, and resources for creating personal web pages
+- [RainDrop Laboratories (RDROP)](http://www.rdrop.com/) Hosting platform for personal projects and community content
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
