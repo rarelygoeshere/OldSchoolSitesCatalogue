@@ -41,11 +41,11 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [qBittorrent](https://www.qbittorrent.org/) Official site for the qBittorrent client
 - [MINIX 3](http://www.minix3.org/) Official site for the MINIX 3 lightweight Unix-like OS
 - [suckless.org](https://suckless.org/) Website dedicated to the Suckless Software project, which focuses minimalist software tools following a simplicity-first philosophy
-- [Victor's Way](https://www.victorsway.eu/)
-- [Forest Bathing](http://www.vwsp.eu/)
-- [Modern Pantheism](http://www.pantheism.ie/)
-- [Charvaka Ashram](http://www.charvaka.ie/)
-- [Pataphysical Institute](http://www.pataphysicalinstitute.eu/)
+- [Victor's Way](https://www.victorsway.eu/) Official Site of Victor's Way, a privately owned meditation garden which contains black granite sculptures
+- [Druid Contemplation at Victor’s Way](http://www.vwsp.eu/) A site associated with Victor's Way for Druid-inspired philosophical contemplation, exploring existential themes and self-realization at Victor’s Way in Ireland.
+- [Pantheism Ireland](http://www.pantheism.ie/) A site associated with Victor's Way that serves as a resource hub for pantheism philosophy and community in Ireland
+- [Charvaka Ashram at Victor’s Way in Roundwood, Ireland](http://www.charvaka.ie/) A platform associated with Victor's Way exploring Charvaka philosophy, emphasizing materialism, skepticism, and the pursuit of pleasure through empirical evidence.
+- [All Ireland Pataphysical Institute of Spiritual Resuscitation](http://www.pataphysicalinstitute.eu/) A platform exploring Pataphysics, the science of imaginary solutions and self-reinvention, inspired by Alfred Jarry
 - [The Clare W. Graves Website](https://www.clarewgraves.com/)
 - [Marvel's Captain Marvel section](https://www.marvel.com/captainmarvel)
 - [Berkshire Hathaway](https://www.berkshirehathaway.com/)
