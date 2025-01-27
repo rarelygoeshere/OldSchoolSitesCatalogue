@@ -29,7 +29,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Dole Kemp '96](https://www.dolekemp96.org/main.htm) The official campaign page for Bob Dole and Jack Kemp's 1996 U.S. presidential election bid
 - [ALIWEB (Archie Like Indexing for the WEB)](http://www.aliweb.com/) One of the first search engines, created in 1993
 - [TravelASSIST Magazine](http://travelassist.com/mag/mag_home.html) One of the first online travel magazines created in 1995
-- [The Deoxyribonucleic Hyperdimension (Deoxy)(Dead)](https://web.archive.org/web/20240906001207/https://deoxy.org/)/[Mirror](https://jacobsm.com/deoxy/deoxy.org/index.html] An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
+- [The Deoxyribonucleic Hyperdimension (Deoxy)(Dead)](https://web.archive.org/web/20240906001207/https://deoxy.org/)/[Mirror](https://jacobsm.com/deoxy/deoxy.org/index.html) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 
@@ -54,7 +54,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Pantheism Ireland](http://www.pantheism.ie/) A site associated with Victor's Way that serves as a resource hub for pantheism philosophy and community in Ireland
 - [Charvaka Ashram at Victor’s Way in Roundwood, Ireland](http://www.charvaka.ie/) A platform associated with Victor's Way exploring Charvaka philosophy, emphasizing materialism, skepticism, and the pursuit of pleasure through empirical evidence.
 - [All Ireland Pataphysical Institute of Spiritual Resuscitation](http://www.pataphysicalinstitute.eu/) A platform exploring Pataphysics, the science of imaginary solutions and self-reinvention, inspired by Alfred Jarry
-- [TheShadowlands](https://theshadowlands.net/) - Oldschool Paranormal Research Site
+- [TheShadowlands](https://theshadowlands.net/) Oldschool Paranormal Research Site
+- [Erowid/Erowid Center](https://www.erowid.org/) A comprehensive drug information and harm-reduction resource
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
