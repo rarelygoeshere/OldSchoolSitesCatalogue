@@ -37,8 +37,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Willem.dev](https://www.willem.dev/) Personal website by Willem Schots, dedicated to sharing knowledge and resources on Go (Golang) and web development
 - [JR Software](https://jrsoftware.org/) Home of software tools and utilities created by Jordan Russell, including the Inno Setup tool for creating Windows installers
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
-- [LazyFoo](https://lazyfoo.net)
-- [qBittorrent](https://www.qbittorrent.org/)
+- [Lazy Foo' Productions](https://lazyfoo.net) SDL game development tutorials and resources
+- [qBittorrent](https://www.qbittorrent.org/) Official site for the qBittorrent client
 - [Minix](http://www.minix3.org/)
 - [Suckless software](https://suckless.org/)
 - [Victor's Way](https://www.victorsway.eu/)
