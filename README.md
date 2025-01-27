@@ -29,6 +29,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Internet 1996 World Exposition](https://park.org/) A digital archive celebrating the internet's early cultural and creative projects from 1996
 - [McSpotlight](https://www.mcspotlight.org/index.shtml) A resource hub critiquing McDonald's and global corporate practices
 - [TACO](http://www.taco.com/) A multipurpose site belongs to Technical Advisors, Inc. offering tech services, web hosting, and niche resources
+- [Dial Up Sound](https://www.dialupsound.com/) A nostalgic tribute to the sounds and experience of 1990s dial-up internet
 - [Benchmarks game](https://benchmarksgame-team.pages.debian.net/benchmarksgame)
 - [Willem.dev](https://www.willem.dev/)
 - [Jrsoftware](https://jrsoftware.org/isdl.php)
