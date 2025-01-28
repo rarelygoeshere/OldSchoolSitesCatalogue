@@ -34,6 +34,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 - [BrycesPix](https://lelegofrog.github.io/index.html) A creative hub for mods, downloads, and digital art, with a quirky, LEGO frog-inspired theme
+- [Fusion Anomaly](https://fusionanomaly.net/) An eclectic digital archive blending technology, metaphysics, and counterculture themes
 
 ### Technical and Development Resources
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
@@ -61,6 +62,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Links to Faiths for All Spiritual Needs](https://gorgosss.tripod.com/index.html) A comprehensive resource on global faiths and spiritual traditions
 - [Jesus-is-Savior.com](https://www.jesus-is-savior.com/) A Christian website focusing on salvation, biblical teachings, and social commentary
 - [Lumianist](https://www.lumianist.org) A platform for spiritual exploration and personal enlightenment, offering resources and teachings centered around these ideas
+- [Anxiety Culture](http://www.anxietyculture.com/) A satirical webzine exploring work culture, media, and psychology with humor and anti-establishment ideas
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
