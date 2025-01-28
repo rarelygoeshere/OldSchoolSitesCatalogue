@@ -59,6 +59,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [TheShadowlands](https://theshadowlands.net/) Oldschool Paranormal Research Site
 - [Erowid/Erowid Center](https://www.erowid.org/) A comprehensive drug information and harm-reduction resource
 - [Links to Faiths for All Spiritual Needs](https://gorgosss.tripod.com/index.html) A comprehensive resource on global faiths and spiritual traditions
+- [Jesus-is-Savior.com](https://www.jesus-is-savior.com/) A Christian website focusing on salvation, biblical teachings, and social commentary
+- [Lumianist](https://www.lumianist.org) A platform for spiritual exploration and personal enlightenment, offering resources and teachings centered around these ideas
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
