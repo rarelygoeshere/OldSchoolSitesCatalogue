@@ -22,6 +22,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends
 - [PowerDVD3000](https://www.dvd3000.ca/) A retro computing and multimedia site featuring VHS recordings, vintage tech, and nostalgic content, hosted by PowerDVD3000
 - [Paul Graham](https://paulgraham.com/) Co-founder of Y Combinator, Paul Graham's site hosts essays on startups, innovation, and philosophy, offering guidance for entrepreneurs
+- [Teleportacia: Olia Lialina's Home](http://art.teleportacia.org/) A digital archive of Olia Lialina’s net art and early web culture
 
 ### Archival and Historical Resources
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
