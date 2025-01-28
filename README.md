@@ -9,7 +9,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 ### Nostalgic and Retro Websites
 - [Space Jam](https://www.spacejam.com/1996/) Official 1996 promotional site for the movie Space Jam
 - [Cameron's World](https://www.cameronsworld.net/) Nostalgic web-collage created from content archived from GeoCities pages (1994–2009)
-- [Internet 1996 World Exposition](https://park.org/) A digital archive celebrating the internet's early cultural and creative projects from 1996
+- [Internet 1996 World Exposition](https://park.org/) A digital archive celebrating the Internet's early cultural and creative projects from 1996
 - [Dial Up Sound](https://www.dialupsound.com/) A nostalgic tribute to the sounds and experience of 1990s dial-up internet
 - [Instant Internet (InstaNet)](https://www.instanet.com/) A retro ISP site providing internet access, web hosting, and resources for creating personal web pages
 - [Zombo.com](https://zombo.com/) A satirical, single-serving website from 1999 that humorously exaggerates Flash intros
@@ -19,7 +19,8 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [ADW / Andy Wardley's Home Page](https://wardley.org/) Andy Wardley's Personal Site
 - [Frankdeboosere](https://www.frankdeboosere.be/) Personal site run by Belgian weather-man Frank Deboosere
 - [Willem.dev](https://www.willem.dev/) Personal website by Willem Schots, dedicated to sharing knowledge and resources on Go (Golang) and web development
-- [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends.
+- [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends
+- [PowerDVD3000](https://www.dvd3000.ca/) A retro computing and multimedia site featuring VHS recordings, vintage tech, and nostalgic content, hosted by PowerDVD3000
 
 ### Archival and Historical Resources
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
@@ -32,6 +33,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [The Deoxyribonucleic Hyperdimension (Deoxy)(Dead)](https://web.archive.org/web/20240906001207/https://deoxy.org/)/[Mirror 1](https://tedwilliams.co/deoxy/)/[2](https://jacobsm.com/deoxy/deoxy.org/index.html) An early internet archive established in 1993 focusing on psychedelics, mysticism, and subversive philosophy
 - [DiscMaster](http://discmaster.textfiles.com/) An archive and search engine for files extracted from vintage CDs and software collections, primarily from the late 20th century
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
+- [BrycesPix](https://lelegofrog.github.io/index.html) A creative hub for mods, downloads, and digital art, with a quirky, LEGO frog-inspired theme
 
 ### Technical and Development Resources
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
@@ -41,7 +43,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [qBittorrent](https://www.qbittorrent.org/) Official site for the qBittorrent client
 - [Lazy Foo' Productions](https://lazyfoo.net) SDL game development tutorials and resources
 - [Geo for Bootstrap](https://code.divshot.com/geo-bootstrap/) A retro-inspired, open-source Bootstrap theme by Divshot
-- [suckless.org](https://suckless.org/) Website dedicated to the Suckless Software project, which focuses minimalist software tools following a simplicity-first philosophy
+- [suckless.org](https://suckless.org/) Website dedicated to the Suckless Software project, which focuses on minimalist software tools following a simplicity-first philosophy
 - [MINIX 3](http://www.minix3.org/) Official site for the MINIX 3 lightweight Unix-like OS
 
 
@@ -56,6 +58,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [All Ireland Pataphysical Institute of Spiritual Resuscitation](http://www.pataphysicalinstitute.eu/) A platform exploring Pataphysics, the science of imaginary solutions and self-reinvention, inspired by Alfred Jarry
 - [TheShadowlands](https://theshadowlands.net/) Oldschool Paranormal Research Site
 - [Erowid/Erowid Center](https://www.erowid.org/) A comprehensive drug information and harm-reduction resource
+- [Links to Faiths for All Spiritual Needs](https://gorgosss.tripod.com/index.html) A comprehensive resource on global faiths and spiritual traditions
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
