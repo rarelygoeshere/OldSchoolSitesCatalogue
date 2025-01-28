@@ -62,6 +62,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
+- [SolarNavigator](https://www.solarnavigator.net/global_expedition.htm) A platform showcasing solar-powered global expeditions and renewable energy innovations
 - [See The World Tours](https://www.seetheworldtours.com/default.html) Site of See The World Tours LLC, a travel agency based in Austintown, Ohio, specializing in group-escorted tours to various international destinations
 - [Blues Saloon](https://www.bluessaloon.org/) Site for a historic live music venue located at 1638 Rice Street, St. Paul, Minnesota
 - [Dino's Tomato Pie](https://www.dinostomatopie.com) Site of a pizzeria located at 1524 East Olive Way in Seattle, Washington specializing in Sicilian-style pizzas and cocktails
@@ -81,9 +82,9 @@ There aren't many restrictions or limitations on adding more sites to this list,
 ### Miscellaneous
 - [Hacker News](https://news.ycombinator.com/) Social news platform hosted by Y Combinator
 - [DANZIG](http://www.danzig-verotik.com/) Site about Writer/Producer/Director Glenn Danzig
-
 # Sources and Inspirations
 ## Sources
+- [Wiby](https://wiby.org/), [2](https://wiby.me/) Search Engine for Lightweight Web Pages
 - [July 8, 2019 - u/miklcct - r/webdev: Web 1.0 era websites which are still maintained and active](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
 - [November 15, 2012 - Attila Nagy - Gizmodo: 23 Ancient Web Sites That Are Still Alive](https://gizmodo.com/23-ancient-web-sites-that-are-still-alive-5960831)
 ## Inspirations
