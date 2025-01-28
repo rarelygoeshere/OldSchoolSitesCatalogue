@@ -37,6 +37,9 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Oldschool PC Fonts](https://int10h.org/oldschool-pc-fonts/) - Oldschool PC Fonts
 - [BrycesPix](https://lelegofrog.github.io/index.html) A creative hub for mods, downloads, and digital art, with a quirky, LEGO frog-inspired theme
 - [Fusion Anomaly](https://fusionanomaly.net/) An eclectic digital archive blending technology, metaphysics, and counterculture themes
+- [Restorativland](https://restorativland.org/) A project to restore and archive abandoned web spaces, preserving digital history for accessibility and exploration
+- [Mydora](https://mydora.restorativland.org/) a music archive and streaming project that provides access to songs from the recovered Myspace Music database
+- [Geocities Restorativland](https://geocities.restorativland.org/) A digital archive preserving the creativity of early GeoCities websites
 
 ### Technical and Development Resources
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
