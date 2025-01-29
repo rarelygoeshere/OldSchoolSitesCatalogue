@@ -42,6 +42,9 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Geocities Restorativland](https://geocities.restorativland.org/) A digital archive preserving the creativity of early GeoCities websites
 
 ### Technical and Development Resources
+- [HapSlash's JKII Homepage](https://jkhub.org/sites/hapslash/) A modding hub for _Jedi Knight II_, showcasing HapSlash’s custom skins, models, and tutorials
+- [Kengo’s JK2 Mapping Showcase](https://jkhub.org/sites/kengo/) A showcase of _Jedi Knight II_ custom maps, tutorials, and level design projects by Kengo
+- [Serpent Code Productions](https://jkhub.org/sites/lassev/) A hub for Lassev’s _Jedi Knight II_ modding projects, levels, and tutorials
 - [RichDiesal's JK2Radiant Mapsource](https://jkhub.org/mapping/richdiesal/richdiesal.htm) Comprehensive tutorial resource for creating maps in _Star Wars Jedi Knight II: Jedi Outcast_ using the Radiant level editor
 - [SQLook](https://sqlook.com/) Modern web-based SQLite database manager with a nostalgic Windows 2000 interface
 - [JR Software](https://jrsoftware.org/) Home of software tools and utilities created by Jordan Russell, including the Inno Setup tool for creating Windows installers
