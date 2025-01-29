@@ -71,6 +71,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Jesus-is-Savior.com](https://www.jesus-is-savior.com/) A Christian website focusing on salvation, biblical teachings, and social commentary
 - [Lumianist](https://www.lumianist.org) A platform for spiritual exploration and personal enlightenment, offering resources and teachings centered around these ideas
 - [Anxiety Culture](http://www.anxietyculture.com/) A satirical webzine exploring work culture, media, and psychology with humor and anti-establishment ideas
+- [The Abolitionist Project](https://www.abolitionist.com/index.html) A transhumanist project promoting the abolition of suffering through biotech and genetic engineering
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
