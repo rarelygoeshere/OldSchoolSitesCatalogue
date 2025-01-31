@@ -1,7 +1,7 @@
 # OldSchoolSitesCatalogue
 A list of all the old-school sites I can find. Websites fitting into this umbrella tend to be lightweight and have aesthetics reminiscent of Web 1.0. The sites do not necessarily have to be old to be included.
 
-There aren't many restrictions or limitations on adding more sites to this list, so feel free to make a pull request and contribute.
+Adding more sites to this list is free of restrictions, so feel free to make a pull request and contribute. However, this repository might contain objectionable content.
 
 ---
 
@@ -54,7 +54,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Geo for Bootstrap](https://code.divshot.com/geo-bootstrap/) A retro-inspired, open-source Bootstrap theme by Divshot
 - [suckless.org](https://suckless.org/) Website dedicated to the Suckless Software project, which focuses on minimalist software tools following a simplicity-first philosophy
 - [MINIX 3](http://www.minix3.org/) Official site for the MINIX 3 lightweight Unix-like OS
-
+- [EldritchData](https://eldritchdata.neocities.org/) A cybersecurity and survivalist resource with privacy guides, Linux security, and OPSEC techniques.
 
 ### Educational and Philosophical Resources
 - [Catholic Apologetics Information](http://catholicapologetics.info/) Comprehensive resource for Catholic teaching and apologetics
@@ -72,6 +72,7 @@ There aren't many restrictions or limitations on adding more sites to this list,
 - [Lumianist](https://www.lumianist.org) A platform for spiritual exploration and personal enlightenment, offering resources and teachings centered around these ideas
 - [Anxiety Culture](http://www.anxietyculture.com/) A satirical webzine exploring work culture, media, and psychology with humor and anti-establishment ideas
 - [The Abolitionist Project](https://www.abolitionist.com/index.html) A transhumanist project promoting the abolition of suffering through biotech and genetic engineering
+- [Macroevolution.net](https://www.macroevolution.net/) A site on evolutionary biology, hybridization, and alternative human origin theories
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
