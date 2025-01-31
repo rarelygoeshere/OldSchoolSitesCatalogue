@@ -24,7 +24,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Paul Graham](https://paulgraham.com/) Co-founder of Y Combinator, Paul Graham's site hosts essays on startups, innovation, and philosophy, offering guidance for entrepreneurs
 - [Teleportacia: Olia Lialina's Home](http://art.teleportacia.org/) A digital archive of Olia Lialina’s net art and early web culture
 - [Verisimilitudes](http://verisimilitudes.net/) A blog exploring software development, computing philosophy, and technical topics
-- [Born Free](https://bornfree.neocities.org/) A personal site likely focused on digital freedom, privacy, and independent living
+- [Born Free](https://bornfree.neocities.org/) A personal site focused on subjects like tech, books and the state of the world
 
 ### Archival and Historical Resources
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
