@@ -13,6 +13,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Dial Up Sound](https://www.dialupsound.com/) A nostalgic tribute to the sounds and experience of 1990s dial-up internet
 - [Instant Internet (InstaNet)](https://www.instanet.com/) A retro ISP site providing internet access, web hosting, and resources for creating personal web pages
 - [Zombo.com](https://zombo.com/) A satirical, single-serving website from 1999 that humorously exaggerates Flash intros
+- [Frutiger Aero Archive](https://frutigeraeroarchive.org/) A tribute to the mid-2000s "Frutiger Aero" design style with resources like wallpapers and music
 
 ### Personal Websites and Blogs
 - [Ryan's World](http://boglin.iwarp.com/) Ryan Peden/Boglin's personal site that's been online and hosted in the same place since 1998
