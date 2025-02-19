@@ -100,6 +100,8 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 ### Miscellaneous
 - [Hacker News](https://news.ycombinator.com/) Social news platform hosted by Y Combinator
 - [DANZIG](http://www.danzig-verotik.com/) Site about Writer/Producer/Director Glenn Danzig
+- [Crouton.net](https://crouton.net/) A minimalist website showcasing a single image of a crouton
+
 # Sources and Inspirations
 ## Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
