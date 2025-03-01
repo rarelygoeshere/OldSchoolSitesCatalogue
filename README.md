@@ -86,6 +86,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Blues Saloon](https://www.bluessaloon.org/) Site for a historic live music venue located at 1638 Rice Street, St. Paul, Minnesota
 - [Dino's Tomato Pie](https://www.dinostomatopie.com) Site of a pizzeria located at 1524 East Olive Way in Seattle, Washington specializing in Sicilian-style pizzas and cocktails
 - [Sous Sol](http://www.soussolosborne.com/) French-inspired restaurant and cocktail bar in Winnipeg's Osborne Village
+- [Registration and Examination Division (RED) of the Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://red.pieas.edu.pk/pieasadmission/lgn.aspx) PIEAS's official admissions portal for online application submissions and related information
 
 ### Entertainment and Media
 - [Captain Marvel | Marvel.com](https://www.marvel.com/captainmarvel) A Marvel.com section dedicated to the 2019 Captain Marvel film
