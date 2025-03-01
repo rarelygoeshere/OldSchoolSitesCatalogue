@@ -14,6 +14,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Instant Internet (InstaNet)](https://www.instanet.com/) A retro ISP site providing internet access, web hosting, and resources for creating personal web pages
 - [Zombo.com](https://zombo.com/) A satirical, single-serving website from 1999 that humorously exaggerates Flash intros
 - [Frutiger Aero Archive](https://frutigeraeroarchive.org/) A tribute to the mid-2000s "Frutiger Aero" design style with resources like wallpapers and music
+- [My Cool 2005 Discovery](https://my20yearsofyoutubechapter1.neocities.org/) A personal webpage containing a reflection on discovering YouTube in 2005 and its potential impact on internet culture.
 
 ### Personal Websites and Blogs
 - [Ryan's World](http://boglin.iwarp.com/) Ryan Peden/Boglin's personal site that's been online and hosted in the same place since 1998
