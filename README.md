@@ -109,6 +109,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 ## Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [Wiby](https://wiby.org/), [2](https://wiby.me/) Search Engine for Lightweight Web Pages
+- [Raw Web](https://rawweb.org/) or [BlogErnity](http://www.bloggernity.com/) Blog Search
 - [Another Useless Website](https://anotheruseless.website/) Find Random "Useless"/ Novelty Sites
 - [July 8, 2019 - u/miklcct - r/webdev: Web 1.0 era websites which are still maintained and active](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
 - [November 15, 2012 - Attila Nagy - Gizmodo: 23 Ancient Web Sites That Are Still Alive](https://gizmodo.com/23-ancient-web-sites-that-are-still-alive-5960831)
