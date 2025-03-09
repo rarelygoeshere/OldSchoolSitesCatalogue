@@ -27,6 +27,8 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Teleportacia: Olia Lialina's Home](http://art.teleportacia.org/) A digital archive of Olia Lialina’s net art and early web culture
 - [Verisimilitudes](http://verisimilitudes.net/) A blog exploring software development, computing philosophy, and technical topics
 - [Born Free](https://bornfree.neocities.org/) A personal site focused on subjects like tech, books and the state of the world
+- [matt's pictures](https://matt.pictures/) A personal photography blog chronicling Matt's travel experiences through compelling images and narratives
+- [Derek Sivers](https://sive.rs/) A personal blog by Derek Sivers offering insights on entrepreneurship, creativity, and life lessons.
 
 ### Archival and Historical Resources
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
