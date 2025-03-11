@@ -80,6 +80,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [The Abolitionist Project](https://www.abolitionist.com/index.html) A transhumanist project promoting the abolition of suffering through biotech and genetic engineering
 - [Macroevolution.net](https://www.macroevolution.net/) A site on evolutionary biology, hybridization, and alternative human origin theories
 - [Debunking Skeptics](https://www.debunkingskeptics.com/) A platform critiquing skeptical viewpoints and promoting alternative perspectives
+- [Transhuman Cosmic Self-Directed Evolution](https://www.euvolution.com/) A platform exploring transhumanism and related ideologies
 
 ### Travel and Local Businesses
 - [hiking.com.hk](http://www.hiking.com.hk/) Hong Kong Hiking site
