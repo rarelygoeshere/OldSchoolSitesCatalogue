@@ -28,7 +28,8 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Verisimilitudes](http://verisimilitudes.net/) A blog exploring software development, computing philosophy, and technical topics
 - [Born Free](https://bornfree.neocities.org/) A personal site focused on subjects like tech, books and the state of the world
 - [matt's pictures](https://matt.pictures/) A personal photography blog chronicling Matt's travel experiences through compelling images and narratives
-- [Derek Sivers](https://sive.rs/) A personal blog by Derek Sivers offering insights on entrepreneurship, creativity, and life lessons.
+- [Derek Sivers](https://sive.rs/) A personal blog by Derek Sivers offering insights on entrepreneurship, creativity, and life lessons
+- [iamcal.com](https://www.iamcal.com/) Personal website showcasing Cal Henderson's projects and writings
 
 ### Archival and Historical Resources
 - [Heaven's Gate](https://www.heavensgate.com/) Legacy site for the Heaven's Gate group
@@ -112,6 +113,7 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 ## Sources
 A list of sources I visited to obtain the content for this repo. It is not an exhaustive list.
 - [Wiby](https://wiby.org/), [2](https://wiby.me/) Search Engine for Lightweight Web Pages
+- [Search My Site](https://searchmysite.net/) - Personal Site Search / Open Source
 - [Raw Web](https://rawweb.org/) or [BlogErnity](http://www.bloggernity.com/) Blog Search
 - [Another Useless Website](https://anotheruseless.website/) Find Random "Useless"/ Novelty Sites
 - [July 8, 2019 - u/miklcct - r/webdev: Web 1.0 era websites which are still maintained and active](https://www.reddit.com/r/webdev/comments/caezeo/web_10_era_websites_which_are_still_maintained/)
