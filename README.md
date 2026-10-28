@@ -22,7 +22,6 @@ Adding more sites to this list is free of restrictions, so feel free to make a p
 - [Frankdeboosere](https://www.frankdeboosere.be/) Personal site run by Belgian weather-man Frank Deboosere
 - [Willem.dev](https://www.willem.dev/) Personal website by Willem Schots, dedicated to sharing knowledge and resources on Go (Golang) and web development
 - [The Best Page in the Universe](http://maddox.xmission.com/) Satirical blog made by Maddox where they humorously criticize everything from pop culture to societal trends
-- [PowerDVD3000](https://www.dvd3000.ca/) A retro computing and multimedia site featuring VHS recordings, vintage tech, and nostalgic content, hosted by PowerDVD3000
 - [Paul Graham](https://paulgraham.com/) Co-founder of Y Combinator, Paul Graham's site hosts essays on startups, innovation, and philosophy, offering guidance for entrepreneurs
 - [Teleportacia: Olia Lialina's Home](http://art.teleportacia.org/) A digital archive of Olia Lialina’s net art and early web culture
 - [Verisimilitudes](http://verisimilitudes.net/) A blog exploring software development, computing philosophy, and technical topics
